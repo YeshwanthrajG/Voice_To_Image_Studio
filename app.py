@@ -55,7 +55,7 @@ STYLES = {
     "Anime": "anime style, studio quality, vivid colors, detailed, soft shading",
     "Watercolor": "watercolor painting, soft brush strokes, pastel tones, artistic",
     "Oil painting": "oil painting, rich textures, dramatic lighting, masterpiece",
-    "None (use my text only)": "",
+    "Random": "",
 }
 NEGATIVE_DEFAULT = (
     "blurry, low quality, distorted, deformed, ugly, bad anatomy, extra limbs, "
